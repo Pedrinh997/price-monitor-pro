@@ -50,9 +50,6 @@ python app_nice.py
 - Interface: `http://localhost:8081`
 - API (Swagger): `http://localhost:8000/docs`
 
-## 🐳 Running with Docker (Recommended for production)
-*(Coming soon)*
-
 ## 📸 Screenshots
 <!-- Add a screenshot of the interface here -->
 ![Dashboard](screenshot.png)

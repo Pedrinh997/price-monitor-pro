@@ -1,10 +1,11 @@
+import os
 import requests
 from nicegui import ui
 import plotly.express as px
 import pandas as pd
 
 # --- CONFIGURAÇÕES ---
-API_URL = "http://localhost:8000"
+API_URL = os.getenv("API_URL", "http://localhost:8000")
 
 # --- SESSÃO ---
 class Session:
