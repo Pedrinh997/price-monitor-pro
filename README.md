@@ -58,4 +58,5 @@ python app_nice.py
 MIT
 
 ## 👤 Author
-Pedrinh997
+Pedrinh997## 🚀 Live Demo
+Check out the live version: [https://price-monitor-pro-production-a08e.up.railway.app](https://price-monitor-pro-production-a08e.up.railway.app)
